@@ -1,4 +1,6 @@
 tmp/
+*.DS_Store
+-.DS_Store
 *._old
 *._backup
 *.html_old

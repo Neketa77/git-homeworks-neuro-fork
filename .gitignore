@@ -1,1 +1,10 @@
+tmp/
+*._old
+*._backup
+*.html_old
+*.old
+*.backup
+*.ada
+Thumbs.db
 .DS_Store
+.html_old
